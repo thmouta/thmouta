@@ -1,4 +1,4 @@
-## Olá! Eu sou a Thaís Mouta
+## Olá! Eu sou a Thaís Mouta 👋
  <div>
   <a href="https://github.com/thmouta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thmouta&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
